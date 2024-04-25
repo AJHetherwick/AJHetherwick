@@ -2,6 +2,10 @@
 
 Passionate about applying data analysis techniques to environmental and social issues. My degree in Statistical Data Science (UC Davis 2024) has given me extensive knowledge of statistics and data analysis methods such as and not limited to: machine learning (supervised and unsupervised), linear algebra, time series analysis, high performance computing, linear regression, and analysis of variance. Through tutoring peers in R and Python, I have further developed a strong foundation for coding and technical aspects of statistics. I excel in quantitative reasoning and analytical problem solving in Python, R, MATLAB, SQL, Excel, Smartsheets, ArcGIS, and Google Suite.
 
+### Coding Proficiencies
+
+
+
 <!--
 **AJHetherwick/AJHetherwick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
