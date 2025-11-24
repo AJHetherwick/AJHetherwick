@@ -1,8 +1,8 @@
 ### About
 
 Passionate about applying data analysis techniques to environmental, biomedical and social issues. 
-\nBachelor's in Statistics at UC Davis (Spring 2024)
-\nMaster's in Statistics at UC Davis (Fall 2026)
+- Bachelor's in Statistics at UC Davis (Spring 2024)
+- Master's in Statistics at UC Davis (Fall 2026)
 
 ---
 
